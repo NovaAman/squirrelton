@@ -1,0 +1,56 @@
+body{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin: 0;
+
+    
+}
+
+.container{
+    width:100vw;
+    height: 1980px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 13px;
+    padding-right: 13px;
+    margin: 0;
+
+}
+
+.logo{
+    margin-top: 12px;
+    width: 160px;
+    display: flex;
+    margin-bottom: 15px;
+
+}
+.power{
+    margin-top: 0px;
+    width: 250px;
+    margin-bottom: 10px;
+    
+
+}
+.coin{
+    margin-top: 0px;
+    width: 2500px;
+    margin-left: 100;
+    margin-bottom: 10px;
+}
+.bar{
+    width: 400px;
+    margin-bottom: 30px;
+
+}
+
+h2{
+    color: white;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-bottom: 0;
+}
