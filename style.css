@@ -13,6 +13,26 @@ body{
     flex-direction: column;
     overflow-y: auto;
 }
+
+
+
+
+#opner{
+    color: white;
+    font-size: 30px;
+    margin-left: 5px;
+}
+
+ 
+
+
+
+
+
+
+
+
+
 .container{
     display: flex;
     flex-direction: column;
